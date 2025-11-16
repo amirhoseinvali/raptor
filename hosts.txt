@@ -1,0 +1,16 @@
+# Hosts Mapping File
+# Format: hostname=system_identifier
+
+# Production servers
+web01=production-web-01
+web02=production-web-02
+db01=production-db-01
+db02=production-db-02
+
+# Staging servers
+staging-web=staging-web-01
+staging-db=staging-db-01
+
+# Development servers
+dev01=development-01
+dev02=development-02
